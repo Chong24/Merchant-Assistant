@@ -1,0 +1,17 @@
+langchain
+langchain-core
+langchain-google-genai
+langchain-community
+langchain-chroma
+langgraph
+fastapi
+uvicorn
+python-multipart
+pypdf
+pymysql
+cryptography
+python-dotenv
+python-jose[cryptography]
+passlib[bcrypt]
+sqlalchemy
+pydantic
